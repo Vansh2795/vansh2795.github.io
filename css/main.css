@@ -233,6 +233,11 @@ a:hover {
   background-position: 50% 50%;
   overflow: visible;
 }
+@media (max-width : 640px) {
+  .tt-fullHeight{
+    height: 560px !important;
+  }
+}
 
 /* ---------------home animation----------------- */
 
